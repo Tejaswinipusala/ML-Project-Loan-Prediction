@@ -1,6 +1,7 @@
-FastAPI
-Pandas
+fastapi
+uvicorn
+pandas
 numpy
-Unicorn
-Pydantic
-Scikit-learn
+pydantic
+scikit-learn
+joblib

@@ -114,7 +114,7 @@ The following preprocessing steps were performed:
 # 🤖 Machine Learning Model
 
 **Algorithm Used**
-Logistic Regression Classifier
+Logistic Regression Classifier and
 Random Forest Classifier
 
 Reason for choosing Random Forest:

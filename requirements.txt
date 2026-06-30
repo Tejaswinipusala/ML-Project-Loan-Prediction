@@ -1,0 +1,7 @@
+FastAPI
+Pandas
+numpy
+Pickle
+Unicorn
+Pydantic
+Scikit-learn
